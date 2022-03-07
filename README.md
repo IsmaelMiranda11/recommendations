@@ -1,6 +1,5 @@
 ### Recommendations Engine Project - Udacity
 
-
 ## About this
 
 This is repository to keep the "Recommendations with IBM" project of Data Scientist Nanodegree Program from Udacity.
